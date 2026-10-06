@@ -78,8 +78,13 @@ async function sendWithWallet(
 
 async function waitForConfirmation(client: SolanaClient, signature: Signature) {
   for (let attempt = 0; attempt < 45; attempt++) {
-    const { value } = await client.rpc.getSignatureStatuses([signature]).send()
-    const status = value[0]
+    // The transaction is already submitted, so a dropped status request (a DNS blip, a flaky
+    // mobile connection) is retried rather than reported as a failed punch.
+    const status = await client.rpc
+      .getSignatureStatuses([signature])
+      .send()
+      .then(({ value }) => value[0])
+      .catch(() => undefined)
     if (status?.err) {
       throw new Error('The cluster rejected the transaction.')
     }

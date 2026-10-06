@@ -102,7 +102,7 @@ export function Screen({
     <View style={{ backgroundColor: palette.ground, flex: 1, paddingTop: insets.top }}>
       <View style={{ paddingHorizontal: 16 }}>{header ?? <HeaderPlate title={title} />}</View>
       <ScrollView
-        contentContainerStyle={{ gap: 16, paddingBottom: 32, paddingHorizontal: 16, paddingTop: 16 }}
+        contentContainerStyle={{ gap: 16, paddingBottom: 32 + insets.bottom, paddingHorizontal: 16, paddingTop: 16 }}
         keyboardShouldPersistTaps="handled"
         refreshControl={
           onRefresh ? (

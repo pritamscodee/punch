@@ -5,6 +5,10 @@ straight to the people who showed up. No treasury, no subscription, no house cut
 
 Built for the Solana Mobile **CLOCK IN** hackathon. Android only, Mobile Wallet Adapter, live on devnet.
 
+**Download the APK:** [latest release](https://github.com/pritamscodee/punch/releases/latest) · **Live keeper:** https://punch-keeper.onrender.com/health
+
+Install on any Android phone with a Solana wallet (Phantom, Solflare, or Seed Vault on Seeker) set to **devnet**. Expo Go will not run it: Mobile Wallet Adapter needs the native build.
+
 | | |
 |---|---|
 | App | Expo / React Native 0.86, expo-router, Solana Kit 7, Mobile Wallet Adapter (`@wallet-ui/react-native-kit`) |
