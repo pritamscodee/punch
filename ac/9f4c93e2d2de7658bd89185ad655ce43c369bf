@@ -1,0 +1,23 @@
+src/features/punch/ui/screen.tsx
+  s_c69a0d6ecf6b67::t_2d6bda50f06f85 105
+src/features/punch/data-access/send-punch-transaction.ts
+  s_c69a0d6ecf6b67::t_ba57244f6fe245 81-87
+README.md
+  s_c69a0d6ecf6b67::t_ffb9b86f172b07 8-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ac9f4c93e2d2de7658bd89185ad655ce43c369bf",
+  "prompts": {},
+  "sessions": {
+    "s_c69a0d6ecf6b67": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01877631-66e8-4f3e-9d79-72da057da712",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "pritamscodee <codewithpritam29@gmail.com>"
+    }
+  }
+}
