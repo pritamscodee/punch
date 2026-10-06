@@ -1,0 +1,303 @@
+.gitattributes
+  s_c69a0d6ecf6b67::t_d72d4d42488642 1-3
+.agents/skills/integration-privy/SKILL.md
+  s_c69a0d6ecf6b67::t_e5088844f9c98a 1-247
+.agents/skills/integration-privy/references/setup.md
+  s_c69a0d6ecf6b67::t_d42328183bbf2d 1-150
+.agents/skills/integration-privy/references/siws.md
+  s_c69a0d6ecf6b67::t_b0e021654e79a7 1-262
+.agents/skills/integration-privy/references/troubleshooting.md
+  s_c69a0d6ecf6b67::t_dd23730931e1f9 1-100
+.agents/skills/seeker-connect/SKILL.md
+  s_c69a0d6ecf6b67::t_7282d20c304624 1-265
+.agents/skills/seeker-connect/references/imperative-api.md
+  s_c69a0d6ecf6b67::t_9158e7aa7c454b 1-109
+.agents/skills/seeker-connect/references/troubleshooting.md
+  s_c69a0d6ecf6b67::t_8cdde8feec3054 1-85
+.agents/skills/seeker-domains/SKILL.md
+  s_c69a0d6ecf6b67::t_1aa30b894ffda7 1-233
+.agents/skills/seeker-domains/references/client.md
+  s_c69a0d6ecf6b67::t_263206060bc3c2 1-393
+.agents/skills/seeker-domains/references/kit-resolver.md
+  s_c69a0d6ecf6b67::t_d2cac47fd15092 1-314
+.agents/skills/seeker-domains/references/server.md
+  s_c69a0d6ecf6b67::t_b6ff02a7b0e180 1-612
+.agents/skills/seeker-genesis-token/SKILL.md
+  s_c69a0d6ecf6b67::t_aeca37afc0f1d2 1-257
+.agents/skills/seeker-genesis-token/references/sgt-verification.md
+  s_c69a0d6ecf6b67::t_1865e924ae34a4 1-238
+.agents/skills/solana-dev/SKILL.md
+  s_c69a0d6ecf6b67::t_c72481cf56e01f 1-197
+.agents/skills/solana-dev/references/anchor/migrating-v0.32-to-v1.md
+  s_c69a0d6ecf6b67::t_b5956351f17841 1-879
+.agents/skills/solana-dev/references/common-errors.md
+  s_c69a0d6ecf6b67::t_56c2d5b4fe95e8 1-699
+.agents/skills/solana-dev/references/compatibility-matrix.md
+  s_c69a0d6ecf6b67::t_6e02013f59b05d 1-329
+.agents/skills/solana-dev/references/concepts.md
+  s_c69a0d6ecf6b67::t_e29c12d3246b67 1-68
+.agents/skills/solana-dev/references/confidential-transfers.md
+  s_c69a0d6ecf6b67::t_da5a57548e3964 1-753
+.agents/skills/solana-dev/references/frontend.md
+  s_c69a0d6ecf6b67::t_8350fad0fb4070 1-251
+.agents/skills/solana-dev/references/idl-codegen.md
+  s_c69a0d6ecf6b67::t_2d5138da6fd403 1-45
+.agents/skills/solana-dev/references/kit-web3-interop.md
+  s_c69a0d6ecf6b67::t_f6183f963476ef 1-39
+.agents/skills/solana-dev/references/kit/accounts.md
+  s_c69a0d6ecf6b67::t_aadcbd9c630897 1-166
+.agents/skills/solana-dev/references/kit/advanced.md
+  s_c69a0d6ecf6b67::t_8bf57598eb65e3 1-532
+.agents/skills/solana-dev/references/kit/codama.md
+  s_c69a0d6ecf6b67::t_12cab3a59f1efb 1-83
+.agents/skills/solana-dev/references/kit/codecs.md
+  s_c69a0d6ecf6b67::t_648d7d14c1d9d1 1-188
+.agents/skills/solana-dev/references/kit/gotchas.md
+  s_c69a0d6ecf6b67::t_4edebea627c728 1-308
+.agents/skills/solana-dev/references/kit/overview.md
+  s_c69a0d6ecf6b67::t_edcbc16a417b8f 1-342
+.agents/skills/solana-dev/references/kit/plugins.md
+  s_c69a0d6ecf6b67::t_d962f988919c07 1-375
+.agents/skills/solana-dev/references/kit/programs/compute-budget.md
+  s_c69a0d6ecf6b67::t_4ead95596aa744 1-228
+.agents/skills/solana-dev/references/kit/programs/system.md
+  s_c69a0d6ecf6b67::t_579554df4dc214 1-150
+.agents/skills/solana-dev/references/kit/programs/token-2022.md
+  s_c69a0d6ecf6b67::t_f3ad90631f8fd3 1-77
+.agents/skills/solana-dev/references/kit/programs/token.md
+  s_c69a0d6ecf6b67::t_bd434bf39cae11 1-257
+.agents/skills/solana-dev/references/kit/react.md
+  s_c69a0d6ecf6b67::t_415a9f095304d6 1-227
+.agents/skills/solana-dev/references/payments.md
+  s_c69a0d6ecf6b67::t_244de9188d5ef5 1-43
+.agents/skills/solana-dev/references/programs/anchor.md
+  s_c69a0d6ecf6b67::t_8dd6b9e77d2cde 1-345
+.agents/skills/solana-dev/references/programs/design-patterns.md
+  s_c69a0d6ecf6b67::t_5c95275538ab77 1-190
+.agents/skills/solana-dev/references/programs/pinocchio.md
+  s_c69a0d6ecf6b67::t_bd8577a4ea9daf 1-848
+.agents/skills/solana-dev/references/resources.md
+  s_c69a0d6ecf6b67::t_1279d7e663c134 1-112
+.agents/skills/solana-dev/references/rpc-quick-lookups.md
+  s_c69a0d6ecf6b67::t_02e4660bbc0edb 1-117
+.agents/skills/solana-dev/references/security.md
+  s_c69a0d6ecf6b67::t_730e34ad4de779 1-749
+.agents/skills/solana-dev/references/surfpool/cheatcodes.md
+  s_c69a0d6ecf6b67::t_f1a5d5b85a062f 1-165
+.agents/skills/solana-dev/references/surfpool/kit-plugin.md
+  s_c69a0d6ecf6b67::t_1e1fde35d4e2d7 1-271
+.agents/skills/solana-dev/references/surfpool/overview.md
+  s_c69a0d6ecf6b67::t_0eae604c530ca3 1-684
+.agents/skills/solana-dev/references/testing.md
+  s_c69a0d6ecf6b67::t_76a6bccf67fe84 1-474
+.agents/skills/solana-dev/references/transactions-v1.md
+  s_c69a0d6ecf6b67::t_75563661bd74c3 1-480
+.agents/skills/solana-mobile-publishing/SKILL.md
+  s_c69a0d6ecf6b67::t_e7b26e0001638f 1-321
+.agents/skills/solana-mobile-publishing/references/signing.md
+  s_c69a0d6ecf6b67::t_59615d7d7932cb 1-213
+.agents/skills/solana-mobile-wallet/SKILL.md
+  s_c69a0d6ecf6b67::t_ae9fe6ae2cd338 1-244
+.agents/skills/solana-mobile-wallet/references/kit.md
+  s_c69a0d6ecf6b67::t_c96dc6c1bad650 1-464
+.agents/skills/solana-mobile-wallet/references/troubleshooting.md
+  s_c69a0d6ecf6b67::t_97ae4d93e0ce68 1-125
+.agents/skills/solana-mobile-wallet/references/web3js.md
+  s_c69a0d6ecf6b67::t_c7d1dc9ab0da50 1-233
+.agents/skills/solana-mobile/SKILL.md
+  s_c69a0d6ecf6b67::t_4b86a316b41654 1-252
+.agents/skills/solana-mobile/references/add-to-existing-app.md
+  s_c69a0d6ecf6b67::t_b843d804983156 1-155
+.agents/skills/solana-mobile/references/cli.md
+  s_c69a0d6ecf6b67::t_438f35642eb554 1-353
+.agents/skills/solana-mobile/references/troubleshooting.md
+  s_c69a0d6ecf6b67::t_40ae658c0c0e5d 1-202
+.claude/skills/integration-privy/SKILL.md
+  s_c69a0d6ecf6b67::t_f9ccac25d48e84 1-247
+.claude/skills/integration-privy/references/setup.md
+  s_c69a0d6ecf6b67::t_a27cec11efe6d0 1-150
+.claude/skills/integration-privy/references/siws.md
+  s_c69a0d6ecf6b67::t_49db5d15170af8 1-262
+.claude/skills/integration-privy/references/troubleshooting.md
+  s_c69a0d6ecf6b67::t_41280ada8d637b 1-100
+.claude/skills/seeker-connect/SKILL.md
+  s_c69a0d6ecf6b67::t_b08a9fc8aef749 1-265
+.claude/skills/seeker-connect/references/imperative-api.md
+  s_c69a0d6ecf6b67::t_71fde9483e0398 1-109
+.claude/skills/seeker-connect/references/troubleshooting.md
+  s_c69a0d6ecf6b67::t_dfe2347e7872fd 1-85
+.claude/skills/seeker-domains/SKILL.md
+  s_c69a0d6ecf6b67::t_92f8018db04d86 1-233
+.claude/skills/seeker-domains/references/client.md
+  s_c69a0d6ecf6b67::t_0ae43b7789214b 1-393
+.claude/skills/seeker-domains/references/kit-resolver.md
+  s_c69a0d6ecf6b67::t_bc5a15af1a1a78 1-314
+.claude/skills/seeker-domains/references/server.md
+  s_c69a0d6ecf6b67::t_9f973d6a05a230 1-612
+.claude/skills/seeker-genesis-token/SKILL.md
+  s_c69a0d6ecf6b67::t_f99c920a69ca31 1-257
+.claude/skills/seeker-genesis-token/references/sgt-verification.md
+  s_c69a0d6ecf6b67::t_4bb63e8838a58c 1-238
+.claude/skills/solana-dev/SKILL.md
+  s_c69a0d6ecf6b67::t_f63dd3d0fe1472 1-197
+.claude/skills/solana-dev/references/anchor/migrating-v0.32-to-v1.md
+  s_c69a0d6ecf6b67::t_be2eea5f750fd8 1-879
+.claude/skills/solana-dev/references/common-errors.md
+  s_c69a0d6ecf6b67::t_d3175654f0b362 1-699
+.claude/skills/solana-dev/references/compatibility-matrix.md
+  s_c69a0d6ecf6b67::t_ac66ffa3ff2b39 1-329
+.claude/skills/solana-dev/references/concepts.md
+  s_c69a0d6ecf6b67::t_c3b0544381a774 1-68
+.claude/skills/solana-dev/references/confidential-transfers.md
+  s_c69a0d6ecf6b67::t_73c0fbdc7e77f9 1-753
+.claude/skills/solana-dev/references/frontend.md
+  s_c69a0d6ecf6b67::t_980e96076fcb1c 1-251
+.claude/skills/solana-dev/references/idl-codegen.md
+  s_c69a0d6ecf6b67::t_4a9ad238a59eca 1-45
+.claude/skills/solana-dev/references/kit-web3-interop.md
+  s_c69a0d6ecf6b67::t_4efc01b38a40c7 1-39
+.claude/skills/solana-dev/references/kit/accounts.md
+  s_c69a0d6ecf6b67::t_a20728d98cb76f 1-166
+.claude/skills/solana-dev/references/kit/advanced.md
+  s_c69a0d6ecf6b67::t_9073398c6386bf 1-532
+.claude/skills/solana-dev/references/kit/codama.md
+  s_c69a0d6ecf6b67::t_3840c1f3fffc4e 1-83
+.claude/skills/solana-dev/references/kit/codecs.md
+  s_c69a0d6ecf6b67::t_199286d08c8689 1-188
+.claude/skills/solana-dev/references/kit/gotchas.md
+  s_c69a0d6ecf6b67::t_faf70458e9cf65 1-308
+.claude/skills/solana-dev/references/kit/overview.md
+  s_c69a0d6ecf6b67::t_546a1309a629c2 1-342
+.claude/skills/solana-dev/references/kit/plugins.md
+  s_c69a0d6ecf6b67::t_bf2c6744f76067 1-375
+.claude/skills/solana-dev/references/kit/programs/compute-budget.md
+  s_c69a0d6ecf6b67::t_45e8dadbe5e580 1-228
+.claude/skills/solana-dev/references/kit/programs/system.md
+  s_c69a0d6ecf6b67::t_713f74407d977d 1-150
+.claude/skills/solana-dev/references/kit/programs/token-2022.md
+  s_c69a0d6ecf6b67::t_01265fc2d24159 1-77
+.claude/skills/solana-dev/references/kit/programs/token.md
+  s_c69a0d6ecf6b67::t_d6219dd45163b2 1-257
+.claude/skills/solana-dev/references/kit/react.md
+  s_c69a0d6ecf6b67::t_a42d21847a126d 1-227
+.claude/skills/solana-dev/references/payments.md
+  s_c69a0d6ecf6b67::t_3c53ba15a5b9e8 1-43
+.claude/skills/solana-dev/references/programs/anchor.md
+  s_c69a0d6ecf6b67::t_b1d4ebd3a1caf8 1-345
+.claude/skills/solana-dev/references/programs/design-patterns.md
+  s_c69a0d6ecf6b67::t_9b9bc51ad97565 1-190
+.claude/skills/solana-dev/references/programs/pinocchio.md
+  s_c69a0d6ecf6b67::t_b39e8540e1561d 1-848
+.claude/skills/solana-dev/references/resources.md
+  s_c69a0d6ecf6b67::t_bd88f98b1dd71b 1-112
+.claude/skills/solana-dev/references/rpc-quick-lookups.md
+  s_c69a0d6ecf6b67::t_35cf385846287d 1-117
+.claude/skills/solana-dev/references/security.md
+  s_c69a0d6ecf6b67::t_6bda7c094d532a 1-749
+.claude/skills/solana-dev/references/surfpool/cheatcodes.md
+  s_c69a0d6ecf6b67::t_3dd3d250c65c9d 1-165
+.claude/skills/solana-dev/references/surfpool/kit-plugin.md
+  s_c69a0d6ecf6b67::t_7267e190ff0beb 1-271
+.claude/skills/solana-dev/references/surfpool/overview.md
+  s_c69a0d6ecf6b67::t_f08e4d4463a958 1-684
+.claude/skills/solana-dev/references/testing.md
+  s_c69a0d6ecf6b67::t_11d75069f470fc 1-474
+.claude/skills/solana-dev/references/transactions-v1.md
+  s_c69a0d6ecf6b67::t_8022731c363cc0 1-480
+.claude/skills/solana-mobile-publishing/SKILL.md
+  s_c69a0d6ecf6b67::t_1fbc7acc210887 1-321
+.claude/skills/solana-mobile-publishing/references/signing.md
+  s_c69a0d6ecf6b67::t_916b7a2cfe9914 1-213
+.claude/skills/solana-mobile-wallet/SKILL.md
+  s_c69a0d6ecf6b67::t_3d5f674a7b3417 1-244
+.claude/skills/solana-mobile-wallet/references/kit.md
+  s_c69a0d6ecf6b67::t_6ff708ecb42385 1-464
+.claude/skills/solana-mobile-wallet/references/troubleshooting.md
+  s_c69a0d6ecf6b67::t_5480dbfd1f82d4 1-125
+.claude/skills/solana-mobile-wallet/references/web3js.md
+  s_c69a0d6ecf6b67::t_a5a5004f72dd44 1-233
+.claude/skills/solana-mobile/SKILL.md
+  s_c69a0d6ecf6b67::t_a6e2f1ba821ec0 1-252
+.claude/skills/solana-mobile/references/add-to-existing-app.md
+  s_c69a0d6ecf6b67::t_fe6198cbde5764 1-155
+.claude/skills/solana-mobile/references/cli.md
+  s_c69a0d6ecf6b67::t_8f27113667cb04 1-353
+.claude/skills/solana-mobile/references/troubleshooting.md
+  s_c69a0d6ecf6b67::t_7b7bb57a030d89 1-202
+.gitignore
+  s_c69a0d6ecf6b67::t_fad9e9da1b9856 1-43
+.impeccable/surfaces/src-app-wallet-index-tsx.md
+  s_c69a0d6ecf6b67::t_0fd8aac99236e1 1-52
+.prettierignore
+  s_c69a0d6ecf6b67::t_e1fee298918718 1-11
+.prettierrc
+  s_c69a0d6ecf6b67::t_7aa6d5cdc00ff6 1-7
+LICENSE
+  s_c69a0d6ecf6b67::t_de7401a891a32e 1-201
+eslint.config.js
+  s_c69a0d6ecf6b67::t_12b2a2319cddfc 1-10
+index.js
+  s_c69a0d6ecf6b67::t_6eb728cabc1a7e 1-3
+polyfill.js
+  s_c69a0d6ecf6b67::t_7aef46a5c5d655 1-4
+skills-lock.json
+  s_c69a0d6ecf6b67::t_52e1f07f8a2d97 1-53
+src/app/settings/cluster.tsx
+  s_c69a0d6ecf6b67::t_b4536a775cfef9 1-5
+src/app/settings/index.tsx
+  s_c69a0d6ecf6b67::t_4f9919f094a898 1-5
+src/features/cluster/data-access/cache-json.ts
+  s_c69a0d6ecf6b67::t_cf1f99f6952670 1-21
+src/features/cluster/data-access/cluster-provider.tsx
+  s_c69a0d6ecf6b67::t_59d46ba4181ce4 1-50
+src/features/cluster/data-access/cluster-store.ts
+  s_c69a0d6ecf6b67::t_1412a2162cdbdf 1-218
+src/features/cluster/data-access/create-cluster-props.ts
+  s_c69a0d6ecf6b67::t_35c716d82ecddf 1-19
+src/features/cluster/data-access/create-solana-client.ts
+  s_c69a0d6ecf6b67::t_2115b514c1ec7a 1-14
+src/features/cluster/data-access/mmkv-cache.ts
+  s_c69a0d6ecf6b67::t_db6c259c4f68d7 1-33
+src/features/cluster/data-access/sync-cache.ts
+  s_c69a0d6ecf6b67::t_844ba787660bfb 1-5
+src/features/core/ui/app-cluster-switcher.tsx
+  s_c69a0d6ecf6b67::t_1ac5e2e069fc5e 1-89
+src/features/settings/settings-feature-cluster.tsx
+  s_c69a0d6ecf6b67::t_c0d8bb6ced9aeb 1-100
+src/features/shell/ui/shell-ui-page.tsx
+  s_c69a0d6ecf6b67::t_2959613cab7b2a 1-28
+src/features/shell/ui/shell-ui-theme-status-bar.tsx
+  s_c69a0d6ecf6b67::t_ebf3054762c4a8 1-9
+src/features/wallet/data-access/use-get-balance.ts
+  s_c69a0d6ecf6b67::t_97b5a3be9a5e4c 1-13
+src/features/wallet/ui/wallet-ui-status-alert.tsx
+  s_c69a0d6ecf6b67::t_bd73a13cb53705 1-19
+src/features/wallet/util/assert-can-pay-transaction-fee.tsx
+  s_c69a0d6ecf6b67::t_6ebfe0527cadb8 1-10
+src/features/wallet/util/format-error.tsx
+  s_c69a0d6ecf6b67::t_62636e9692687e 1-12
+src/global.css
+  s_c69a0d6ecf6b67::t_3d18abea064e0a 1-5
+src/global.d.ts
+  s_c69a0d6ecf6b67::t_0b53d70259dccb 1
+src/uniwind-types.d.ts
+  s_c69a0d6ecf6b67::t_87a26e32155911 1-10
+tsconfig.json
+  s_c69a0d6ecf6b67::t_16fd3997fb43f0 1-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e7aca9b2b732e6ad1acbde2c956e58aa18350468",
+  "prompts": {},
+  "sessions": {
+    "s_c69a0d6ecf6b67": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01877631-66e8-4f3e-9d79-72da057da712",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "pritamscodee <codewithpritam29@gmail.com>"
+    }
+  }
+}
