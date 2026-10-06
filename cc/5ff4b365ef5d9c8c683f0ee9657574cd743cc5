@@ -1,0 +1,19 @@
+keeper/Dockerfile
+  s_c69a0d6ecf6b67::t_647097c4a835a0 2-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cc5ff4b365ef5d9c8c683f0ee9657574cd743cc5",
+  "prompts": {},
+  "sessions": {
+    "s_c69a0d6ecf6b67": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01877631-66e8-4f3e-9d79-72da057da712",
+        "model": "unknown"
+      },
+      "human_author": "pritamscodee <codewithpritam29@gmail.com>"
+    }
+  }
+}
