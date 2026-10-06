@@ -1,5 +1,6 @@
 # PUNCH keeper: small static-ish image. Build context is this folder.
-FROM rust:1.93-slim AS build
+# Build and runtime must share a Debian release, or the binary needs a newer glibc than the runtime has.
+FROM rust:1.93-slim-bookworm AS build
 WORKDIR /src
 COPY Cargo.toml Cargo.lock ./
 COPY src ./src
