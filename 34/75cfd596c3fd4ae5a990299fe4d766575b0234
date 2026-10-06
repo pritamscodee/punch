@@ -1,0 +1,31 @@
+PRODUCT.md
+  s_c69a0d6ecf6b67::t_c5f0f6dbdd6685 1-61
+README.md
+  s_c69a0d6ecf6b67::t_1482c7b4768f25 1-136
+keeper/.dockerignore
+  s_c69a0d6ecf6b67::t_3422c9e1da63e5 1-2
+keeper/Dockerfile
+  s_c69a0d6ecf6b67::t_b07f7f8af7a380 1-15
+render.yaml
+  s_c69a0d6ecf6b67::t_70e942146fb202 1-24
+docs/dapp-store.md
+  s_c69a0d6ecf6b67::t_09ec86e04b8707 1-16
+docs/demo-script.md
+  s_c69a0d6ecf6b67::t_89545b0cd005d4 1-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3475cfd596c3fd4ae5a990299fe4d766575b0234",
+  "prompts": {},
+  "sessions": {
+    "s_c69a0d6ecf6b67": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01877631-66e8-4f3e-9d79-72da057da712",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "pritamscodee <codewithpritam29@gmail.com>"
+    }
+  }
+}
