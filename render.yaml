@@ -1,0 +1,24 @@
+# Render Blueprint for the PUNCH keeper (Rust / Axum, Docker).
+# Render dashboard → New → Blueprint → pick this repo. You will be asked for the two secrets.
+services:
+  - type: web
+    name: punch-keeper
+    runtime: docker
+    rootDir: keeper
+    dockerfilePath: ./Dockerfile
+    # The settlement loop must keep running: the free plan sleeps after 15 idle minutes.
+    plan: starter
+    region: ohio
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      - key: KEEPER_SECRET
+        sync: false
+      - key: DATABASE_URL
+        sync: false
+      - key: RPC_URL
+        value: https://api.devnet.solana.com
+      - key: SGT_RPC_URL
+        value: https://api.mainnet-beta.solana.com
+      - key: SETTLE_INTERVAL_SECS
+        value: "30"
