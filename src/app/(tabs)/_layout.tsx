@@ -2,6 +2,7 @@ import Ionicons from '@expo/vector-icons/Ionicons'
 import { Tabs } from 'expo-router/js-tabs'
 import type { ComponentProps } from 'react'
 import { type ColorValue, View } from 'react-native'
+import { useSafeAreaInsets } from 'react-native-safe-area-context'
 
 import { fonts, usePunchTheme } from '@/features/punch/ui/tokens'
 
@@ -19,6 +20,7 @@ function TabIcon({ color, focused, name }: { color: ColorValue; focused: boolean
 
 export default function TabsLayout() {
   const { palette } = usePunchTheme()
+  const insets = useSafeAreaInsets()
 
   return (
     <Tabs
@@ -29,7 +31,13 @@ export default function TabsLayout() {
         tabBarHideOnKeyboard: true,
         tabBarInactiveTintColor: palette.dim,
         tabBarLabelStyle: { fontFamily: fonts.stencil, fontSize: 12, letterSpacing: 2, textTransform: 'uppercase' },
-        tabBarStyle: { backgroundColor: palette.panel, borderTopColor: palette.line, height: 68, paddingTop: 0 },
+        tabBarStyle: {
+          backgroundColor: palette.panel,
+          borderTopColor: palette.line,
+          height: 68 + insets.bottom,
+          paddingBottom: insets.bottom,
+          paddingTop: 0,
+        },
       }}
     >
       <Tabs.Screen
