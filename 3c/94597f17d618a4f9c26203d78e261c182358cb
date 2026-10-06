@@ -1,0 +1,27 @@
+scripts/clock-address.ts
+  s_c69a0d6ecf6b67::t_2371718fb90acf 1-11
+src/features/punch/protocol/constants.ts
+  s_c69a0d6ecf6b67::t_910141181bfe38 1-61
+src/features/punch/protocol/records.ts
+  s_c69a0d6ecf6b67::t_a2deb26d44a0b2 1-164
+src/features/punch/protocol/addresses.ts
+  s_c69a0d6ecf6b67::t_171de79539a4c0 1-23
+src/features/punch/protocol/ledger.ts
+  s_c69a0d6ecf6b67::t_bd7b3946541e55 1-210
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3c94597f17d618a4f9c26203d78e261c182358cb",
+  "prompts": {},
+  "sessions": {
+    "s_c69a0d6ecf6b67": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01877631-66e8-4f3e-9d79-72da057da712",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "pritamscodee <codewithpritam29@gmail.com>"
+    }
+  }
+}
