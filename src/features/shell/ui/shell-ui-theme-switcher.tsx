@@ -4,6 +4,7 @@ import type { ComponentProps } from 'react'
 import { Pressable, Text, View } from 'react-native'
 
 import type { Theme } from '@/features/shell/data-access/use-theme'
+import { usePunchTheme } from '@/features/punch/ui/tokens'
 import { setTheme, useTheme } from '@/features/shell/data-access/use-theme'
 
 type ThemeIcon = ComponentProps<typeof Ionicons>['name']
@@ -47,7 +48,8 @@ function ThemeSwitcherItem({
   label: string
   onPress(): void
 }) {
-  const color = isSelected ? '#FFC400' : '#737373'
+  const { palette } = usePunchTheme()
+  const color = isSelected ? palette.enamelText : palette.muted
 
   return (
     <Pressable
