@@ -1,0 +1,21 @@
+package.json
+  s_c69a0d6ecf6b67::t_e832878107a977 32
+src/features/shell/ui/shell-ui-theme-switcher.tsx
+  s_c69a0d6ecf6b67::t_e832878107a977 7,51-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "30d6faa49b35a095d8548e96fd845c2bd88df4a8",
+  "prompts": {},
+  "sessions": {
+    "s_c69a0d6ecf6b67": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01877631-66e8-4f3e-9d79-72da057da712",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "pritamscodee <codewithpritam29@gmail.com>"
+    }
+  }
+}
