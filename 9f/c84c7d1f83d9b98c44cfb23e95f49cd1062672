@@ -1,0 +1,21 @@
+src/app/(tabs)/_layout.tsx
+  s_a73ac08a773513::t_7c1ed938d21862 5,23,34-40
+app.json
+  s_a73ac08a773513::t_365845fb87a66b 20,63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9fc84c7d1f83d9b98c44cfb23e95f49cd1062672",
+  "prompts": {},
+  "sessions": {
+    "s_a73ac08a773513": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9aeda095-98a4-4519-825d-d9c088924305",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "pritamscodee <codewithpritam29@gmail.com>"
+    }
+  }
+}
